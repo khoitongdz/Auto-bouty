@@ -1,5 +1,5 @@
 getgenv().Configs = {
-    ["Team"] = "Marines", -- Pirates/Marines
+    ["Team"] = "Pirates", -- Pirates/Marines
     ["Auto Ken"] = true,
     ["Auto Buso"] = true,
     ["Auto turn on race v3"] = true,
@@ -8,8 +8,8 @@ getgenv().Configs = {
     ["Click Time"] = 0.5,
     ["Bypass TP"] = true,
     ["Chat"] = {
-        ["Enable"] = false,
-        ["Message"] = {"xero hub"}, -- Input your message here
+        ["Enable"] = true,
+        ["Message"] = {"Made by khoitongdz "}, -- Input your message here
     },
     ["Run When Low Health"] = {
         ["Enable"] = true,
